@@ -1,0 +1,9 @@
+// __dirname = path to current directory
+// __filename = path to file name
+// require = function to use modules(CommonJS)
+// module =  info about current module
+// process = info about env where the program is being executed
+
+setInterval(() => {
+	console.log('Hey Ejike this is cool!');
+}, 1000);
